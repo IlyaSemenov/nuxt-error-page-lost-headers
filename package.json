@@ -1,0 +1,16 @@
+{
+  "name": "@eg11/web",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi start"
+  },
+  "dependencies": {
+    "nuxt-edge": "2.16.0-27720022.54e852f"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@3.0.0-27778503.de9e5c2",
+    "@nuxt/types-edge": "2.16.0-27720022.54e852f"
+  }
+}
